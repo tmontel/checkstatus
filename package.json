@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Thibault Montel"
+  },
+  "name": "checkstatus",
+  "description": "Node application to check HTTP status.",
+  "version": "0.2.7",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/main",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "readmeFilename": "README.md",
+  "_id": "iprospect@0.2.7",
+  "_from": "iprospect@0.2.7"
+}
