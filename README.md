@@ -13,7 +13,7 @@ This tool is made to improve performances are given by PHP script. NodeJs is nat
 Version
 ----
 
-0.2.7
+0.2.8
 
 Installation
 --------------
