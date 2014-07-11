@@ -4,7 +4,7 @@
   },
   "name": "checkstatus",
   "description": "Node application to check HTTP status.",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "repository": {
     "url": "https://github.com/iprospect-canada/checkstatus.git"
   },
@@ -16,6 +16,6 @@
     "node": "*"
   },
   "readmeFilename": "README.md",
-  "_id": "iprospect@0.2.8",
-  "_from": "iprospect@0.2.8"
+  "_id": "iprospect@0.2.9",
+  "_from": "iprospect@0.2.9"
 }

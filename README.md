@@ -13,7 +13,7 @@ This tool is made to improve performances are given by PHP script. NodeJs is nat
 Version
 ----
 
-0.2.8
+0.2.9
 
 Installation
 --------------
@@ -30,7 +30,7 @@ var checkstatus = require('checkstatus');
 
 var domainUrl = ['http://www.google.ca', 'http://www.yahoo.com'];
 
-var result = checkstatus.checkStatus(domainUrl);
+checkstatus.checkStatus(domainUrl);
 ```
 
 License
